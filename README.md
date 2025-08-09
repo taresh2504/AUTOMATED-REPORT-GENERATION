@@ -118,3 +118,6 @@ Customization – Reports can be tailored for different purposes and audiences.
 Conclusion
 Automated Report Generation is a crucial step towards digital transformation in data-driven industries. By leveraging Python and powerful libraries, we built a system that can process raw data, generate insights, and present them in a professional format without manual intervention. This solution is adaptable for various domains such as business, education, healthcare, and finance, making it a versatile and valuable tool.
 
+# OUTPUT #
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d173325-f14a-4bfb-b63d-620ecf725e54" />
